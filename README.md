@@ -169,12 +169,9 @@ Contributions are welcome. If you want to improve the model, add data processing
 
 ## License
 
-This project is currently unlicensed unless otherwise specified. Add a license file if you plan to share or distribute the project publicly.
-
-## Note
-
-This README is a strong starting template for the project. If the notebook includes specific model details, dataset sources, commands, or performance metrics, those should be added here for a more accurate project summary.
+This project is licensed by Sourodip Das Gupta. It is used for univercity use purpose.
 
 ## Contact
 
-For questions or collaboration, please reach out through the repository owner or project maintainer details on GitHub.
+Email: sourodipdasgupta283@gmail.com
+linkedIn: www.linkedin.com/in/sourodip-das-gupta-3b97a62a6
